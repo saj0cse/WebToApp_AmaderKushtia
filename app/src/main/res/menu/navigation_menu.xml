@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/groupId1"
+        android:checkableBehavior="single"
+        >
+
+                <item
+                    android:id="@+id/homeId"
+                    android:title="Home"
+                    android:icon="@drawable/ic_home" />
+                <item
+                    android:id="@+id/aboutId"
+                    android:icon="@drawable/ic_about"
+                    android:title="About App" />
+
+                <item
+                    android:id="@+id/shareId"
+                    android:icon="@drawable/ic_share"
+                    android:title="Share App" />
+
+
+    </group>
+
+    <group
+        android:id="@+id/groupId2"
+        android:checkableBehavior="single"
+        >
+        <item android:title="Developer Contact">
+            <menu>
+
+                <item
+                    android:id="@+id/fbIdM"
+                    android:title="Facebook"
+                    android:icon="@drawable/fb" />
+
+                <item
+                    android:id="@+id/linkedinIdM"
+                    android:icon="@drawable/linkedin"
+                    android:title="Linkedin" />
+
+                <item
+                    android:id="@+id/fbPageIdM"
+                    android:icon="@drawable/fbpage_icon"
+                    android:title="Facebook Page" />
+
+            </menu>
+
+        </item>
+
+    </group>
+
+</menu>

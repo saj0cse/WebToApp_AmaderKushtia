@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/drawarHeader"
+        android:background="@color/teal_700"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+       <ImageView
+           android:layout_marginTop="2dp"
+           android:layout_width="80dp"
+           android:layout_height="80dp"
+           android:src="@drawable/about_icon"
+           >
+       </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="?attr/colorPrimary"
+                android:textStyle="bold"
+                android:layout_marginTop="2dp"
+                android:textAlignment="center"
+                android:text="Amader Kushtia\n(আমাদের কুষ্টিয়া)"
+                android:textSize="20sp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textColor="@color/white"
+                android:padding="2dp"
+                android:textIsSelectable="true"
+                android:textAlignment="center"
+                android:text="@string/header2"
+                />
+
+    </LinearLayout>
+
+    <View
+        android:elevation="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#43000000"
+        />
+</LinearLayout>

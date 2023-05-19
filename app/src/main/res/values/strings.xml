@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Amader Kushtia (আমাদের কুষ্টিয়া)</string>
+    <string name="about_app">বাংলাদেশ, আন্তর্জাতিক, খেলাধুলা, বিনোদন, বৈশিষ্ট্য, মতামত, প্রযুক্তি এবং আরও অনেক কিছু সহ বিভিন্ন বিভাগে সর্বশেষ খবর সরবরাহ করার জন্য
+অনলাইন বাংলা নিউজ পোর্টাল "আমাদের কুষ্টিয়া"।</string>
+    <string name="open"> </string>
+    <string name="close"> </string>
+    <string name="header2">সম্পাদক ও প্রকাশকঃ তাশফীন আব্দুল্লাহ\nভারপ্রাপ্ত সম্পাদকঃ খালিদ হাসান রিংকু\nই-মেইল: amaderkushtia89@gmail.com</string>
+    <string name="website_link">https://www.casualparkbd.com/</string>
+    <string name="saj_developer_link"> <a href="https://www.facebook.com/saj.developer">SAJ Developer</a> </string>
+    <string name="internet_alert">There seems to be no active internet connection. Please check your internet connection and<b> refresh again.</b> </string>
+
+    <string name="l1">নামঃ আলহাজ্ব রাশেদুল ইসলাম বিপ্লব\nসভাপতিঃ কুষ্টিয়া কু্ষ্টিয়া প্রেসক্লাব কেপিসি\nপদবীঃ প্রধান উপদেষ্টা\nআমাদের কুষ্টিয়া ডট নেট</string>
+    <string name="l2">নামঃ মোঃ মাহমুদ হাসান\nসাধারণ সম্পাদক সাংবাদিক ইউনিয়ন কুষ্টিয়া\nপদবীঃ উপদেষ্টা\nআমাদের কুষ্টিয়া ডট নেট</string>
+    <string name="l3">নামঃ তাশফীন আব্দুল্লাহ\nপদবীঃ সম্পাদক ও প্রকাশক\nআমাদের কুষ্টিয়া ডট নেট</string>
+    <string name="l4">নামঃ খালিদ হাসান রিংকু\nপদবীঃ ভারপ্রাপ্ত সম্পাদক\nআমাদের কুষ্টিয়া ডট নেট</string>
+    <string name="l5">নামঃ আব্দুর রহিম\nপদবীঃ বার্তা সম্পাদক\nআমাদের কুষ্টিয়া ডট নেট</string>
+    <string name="l6">নামঃ মোঃ রাব্বি আহম্মেদ\nপদবীঃ মেহেরপুর জেলা প্রতিনিধি\nআমাদের কুষ্টিয়া ডট নেট</string>
+    <string name="l7">নামঃ মোঃ সুমন মাহমুদ\nপদবীঃ কুষ্টিয়া জেলা প্রতিনিধি\nআমাদের কুষ্টিয়া ডট নেট</string>
+    <string name="l8">নামঃ মোঃ চাঁদ আলী\nপদবীঃ সিনিয়র স্টাফ রিপোর্টার\nআমাদের কুষ্টিয়া ডট নেট</string>
+    <string name="l9">নামঃ মোঃ আল-আমিন\nপদবীঃ মিরপুর প্রতিনিধি\nআমাদের কুষ্টিয়া ডট নেট</string>
+    <string name="l10">নামঃ মোঃ খালেদুর রহমান\nপদবীঃ স্টাফ রিপোর্টার\nআমাদের কুষ্টিয়া ডট নেট</string>
+</resources>
